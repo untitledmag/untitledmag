@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shadowedmagnum?tab=repositories](https://github.com/shadowedmagnum?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories Tab](https://github.com/shadowedmagnum?tab=repositories)
 
 - 💬 Ask me about **cats**
 
-- 📫 How to reach me **mailto:shadowedmagnum@gmail.com**
+- 📫 How to reach me **[shadowedmagnum@gmail.com](mailto:shadowedmagnum@gmail.com)**
 
 - ⚡ Fun fact **A cat's nose print is as unique as a human fingerprint.**
 
