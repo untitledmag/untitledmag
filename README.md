@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manreet</h1>
 <h3 align="center">A passionate developer from Canada 🍁</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently focusing on world outside computers.
 
 - 👨‍💻 All of my projects are available at [Repositories Tab](https://github.com/shadowedmagnum?tab=repositories)
 
